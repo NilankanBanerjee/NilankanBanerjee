@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Nilankan Banerjee</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 <img align="right" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
