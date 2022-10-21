@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilankan Banerjee</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
-
+<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
