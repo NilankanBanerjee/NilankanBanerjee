@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilankan Banerjee</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA")
+<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 - 🌱 I’m currently learning **Machine leaning and deep learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NilankanBanerjee](https://github.com/NilankanBanerjee)
